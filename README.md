@@ -67,6 +67,7 @@ This repository is open-source and available under the MIT License. Feel free to
 
 ## 📬 Contact
 For suggestions, questions, or feedback, feel free to reach out!
+email: ahmeedabduljalal@gmail.com
 
 Happy coding! 🚀
 
